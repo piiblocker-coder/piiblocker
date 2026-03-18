@@ -107,6 +107,7 @@ Absolutely. PiiBlocker is designed for anyone who uses AI chatbots with real dat
 * 🌐 [Website](https://www.piiblock.com)
 * 🛒 [Chrome Web Store](https://chromewebstore.google.com/detail/privacyshield/nklghhkmhkmckonncilnaohlihfacoee)
 * 𝕏 [Twitter/X](https://x.com/PIIBlocker)
+* 💼 [LinkedIn](https://www.linkedin.com/company/piiblock)
 * 📧 [Support](mailto:support@piiblock.com) — support@piiblock.com
 * 🔐 [Security](mailto:security@piiblock.com) — security@piiblock.com
 * 📋 [Changelog](https://www.piiblock.com/changelog)
